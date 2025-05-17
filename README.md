@@ -49,7 +49,9 @@ Projeto desenvolvido por: Dionei Adriano Felisbino (dfelisbino@gmail.com)
 
 Agradecimentos:
 Fabricio Carraro - Program Manager (destacando a agilidade na digitação).
+
 Valquíria Alencar - Instrutora de Data Science (destacando os insights durante as aulas) 
+
 Luciano Martins - Developer Advocate, Google IA (destacando o conhecimento técnico)
 
 Desenvolvido com a assistência do modelo Gemini.
