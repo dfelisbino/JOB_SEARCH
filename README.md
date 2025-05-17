@@ -47,7 +47,7 @@ Este projeto foi proposto como uma tarefa do curso de IA da Alura + Google Gemin
 
 Projeto desenvolvido por: Dionei Adriano Felisbino (dfelisbino@gmail.com)
 
-Agradecimentos:
+******  Agradecimentos:   ******
 
 Fabricio Carraro - Program Manager (destacando a agilidade na digitação).
 
